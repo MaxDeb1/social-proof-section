@@ -1,5 +1,7 @@
 # Frontend Mentor - Social proof section
 
+[Live site](https://maxdeb1.github.io/social-proof-section/)
+
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
